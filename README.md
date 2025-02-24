@@ -27,7 +27,7 @@ cd nordvpn-config-generator
 2. Install dependencies:
 
 ```bash
-npm install
+pnpm install
 # or
 yarn install
 ```
@@ -51,7 +51,7 @@ cp .env.example .env
 This application is intended for local use only. Start the development server:
 
 ```bash
-npm run dev
+pnpm run dev
 # or
 yarn dev
 ```
